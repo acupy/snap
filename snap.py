@@ -26,7 +26,7 @@ class Player(object):
         '''Print Player.'''
         return self.name
     
-    def isWinner(self, otherPlayer):
+    def isWinner(self, other_player):
         '''Compare points.'''
         pass
     
